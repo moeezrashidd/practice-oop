@@ -1,0 +1,1 @@
+this file is to opne the message form when click on the message link in the email body, and then show the message details in the message form.
