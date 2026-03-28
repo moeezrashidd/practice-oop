@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-public class Class1
+public class BookManagementApp
 {
     class Book
     {
@@ -328,9 +328,9 @@ public class Class1
         }
     }
 
-    class BookUI
+    public class BookUI
     {
-        static void Main(string[] args)
+        public void bookMian(string[] args)
         {
             BookBLL bll = new BookBLL();
             int nextId = 1;

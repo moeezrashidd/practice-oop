@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-public class Class1
+public class StudentManagementApp
 {
     class Student
     {
@@ -193,9 +193,9 @@ public class Class1
         }
     }
 
-    class StudentUI
+    public class StudentUI
     {
-        static void Main(string[] args)
+        public static void Run(string[] args)
         {
             StudentBLL bll = new StudentBLL();
             int nextId = 1;
