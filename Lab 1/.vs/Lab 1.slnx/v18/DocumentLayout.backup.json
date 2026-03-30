@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\",
+  "WorkspaceRootPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC7FBE0B-0929-440F-94EF-28BB105BAD26}|Lab 1.csproj|c:\\users\\moeez rashid\\documents\\oop\\lab 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC7FBE0B-0929-440F-94EF-28BB105BAD26}|Lab 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{026152F8-15BF-44D1-2A62-DEBFE616ABAB}|Lab 1.csproj|c:\\users\\moeez rashid\\documents\\oop\\practice\\lab 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026152F8-15BF-44D1-2A62-DEBFE616ABAB}|Lab 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T18:20:11.203Z",
               "EditorCaption": ""

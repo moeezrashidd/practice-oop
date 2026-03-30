@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\Lab 1.csproj": {}
+    "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\Lab 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\Lab 1.csproj": {
+    "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\Lab 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\Lab 1.csproj",
+        "projectUniqueName": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\Lab 1.csproj",
         "projectName": "Lab 1",
-        "projectPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\Lab 1.csproj",
+        "projectPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\Lab 1.csproj",
         "packagesPath": "C:\\Users\\Moeez Rashid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab 1\\obj\\",
+        "outputPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\Lab 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moeez Rashid\\AppData\\Roaming\\NuGet\\NuGet.Config",
