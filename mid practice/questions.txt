@@ -1,0 +1,144 @@
+Here is a **single comprehensive question** that forces you to use *almost every concept you studied* — no diagrams required, only code + explanation.
+
+---
+
+# 🧠 🔥 MASTER PRACTICE QUESTION (Covers Everything)
+
+## 📘 Scenario: Smart University Management System
+
+A university wants to build a system to manage students, courses, departments, and enrollments.
+
+---
+
+## ❓ Requirements
+
+### 🔹 1. Classes & Encapsulation
+
+* Create classes:
+
+  * `Student`
+  * `Course`
+  * `Department`
+* Each student has:
+
+  * Name, RollNo, Marks
+* Ensure:
+
+  * Marks must be between **0–100** using encapsulation
+
+---
+
+### 🔹 2. Static Concept
+
+* Track total number of students using a **static variable**
+* Increment it when a new student is created
+
+---
+
+### 🔹 3. Constructor Overloading
+
+* Student:
+
+  * Constructor with full data
+  * Constructor without marks (default marks = 0)
+
+---
+
+### 🔹 4. Aggregation & Composition
+
+* Department contains multiple students (**aggregation**)
+* Course contains modules (**composition**)
+  (modules should not exist without course)
+
+---
+
+### 🔹 5. Shallow vs Deep Copy
+
+* Department should have:
+
+  * `ShallowCopy()`
+  * `DeepCopy()`
+* Scenario:
+
+  * Modify student name in copied department
+  * Show difference in output
+
+---
+
+### 🔹 6. Static Method (Utility)
+
+* Create a utility class with static method:
+
+  * Calculate average marks of students
+
+---
+
+### 🔹 7. Business Logic (Encapsulation)
+
+* Student should NOT allow direct modification of marks
+* Provide:
+
+  * `SetMarks()`
+  * `GetMarks()`
+
+---
+
+### 🔹 8. 3-Tier Thinking (No Diagram Required)
+
+Explain briefly in comments:
+
+* Which part is:
+
+  * Presentation layer
+  * Logic layer
+  * Data layer
+
+---
+
+### 🔹 9. Real Scenario Execution
+
+In `Main()`:
+
+* Create:
+
+  * 1 department
+  * 3 students
+  * Add students to department
+* Perform:
+
+  * Deep copy and shallow copy
+  * Modify copied data
+  * Print results
+* Show:
+
+  * Total students count
+  * Average marks
+
+---
+
+## 🎯 What This Covers
+
+| Concept                  | Covered |
+| ------------------------ | ------- |
+| Encapsulation            | ✔       |
+| Constructors             | ✔       |
+| Static variables/methods | ✔       |
+| Aggregation              | ✔       |
+| Composition              | ✔       |
+| Shallow vs Deep Copy     | ✔       |
+| 3-Tier thinking          | ✔       |
+| Real-world modeling      | ✔       |
+
+---
+
+## 🔥 Why this is important
+
+If you can solve this:
+
+> You are **fully prepared for exams + interviews on OOP basics**
+
+---
+
+If you want, I can:
+👉 review your solution
+👉 or give you a **perfect model answer after you attempt it**

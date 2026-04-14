@@ -12,8 +12,8 @@ class Program
         //EmployeeMain.Run(args);
         //Console.WriteLine("Running Solution of question 4...\n");
         //BookMain.Run(args);
-        Console.WriteLine("Running Solution of question 8...\n");
-        DepartmentMain.Run(args);
+        //Console.WriteLine("Running Solution of question 8...\n");
+        //DepartmentMain.Run(args);
 
 
     }

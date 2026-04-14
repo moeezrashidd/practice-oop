@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moeez Rashid\\Documents\\oop\\mid practice\\mid practice.csproj",
+      "projectUniqueName": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\mid practice\\mid practice.csproj",
       "projectName": "mid practice",
-      "projectPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\mid practice\\mid practice.csproj",
+      "projectPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\mid practice\\mid practice.csproj",
       "packagesPath": "C:\\Users\\Moeez Rashid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\mid practice\\obj\\",
+      "outputPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\mid practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moeez Rashid\\AppData\\Roaming\\NuGet\\NuGet.Config",
