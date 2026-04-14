@@ -1,0 +1,131 @@
+Practice Questions 
+Object Oriented Programming 
+Q1. A university wants to maintain student records. Each student has a name, roll number, and 
+marks. 
+ Design a Student class. 
+ Ensure no student can have marks below 0 or above 100. 
+ Write a scenario where attempting to assign invalid marks is handled. 
+Q2. You are designing an e-commerce system. Each Product has a name, price, and stock quantity. 
+ Create objects for 3 products. 
+ Write a constructor to initialize them and explain why constructor overloading might be 
+needed if some products have discount. 
+Q3. A company wants to track employee records. Employees can be of type: permanent or 
+contract. 
+ Design a class Employee with default constructor and parameterized constructor. 
+ Show how constructor overloading can help initialize permanent and contract employees 
+differently. 
+Q4. In a library system, books can be issued or returned. 
+ Create a Book class with constructors to initialize with title only, title + author, and title + 
+author + year. 
+ Demonstrate constructor overloading with 3 examples. 
+Q5. A car rental system has Car objects. Each car can be economy, sedan, or SUV. 
+ Write a class with constructors for different combinations: model, price, fuel type. 
+ Explain which constructor will be called when only model is provided. 
+Q6. You are building a banking system. Each BankAccount object must have an account number 
+and balance. 
+ Implement a constructor to initialize the balance to zero if no value is given. 
+ Write a scenario where both default and parameterized constructors are used. 
+Q7. A Student class has name, rollNumber, marks. Implement a copy constructor. 
+ Explain the difference between shallow copy and deep copy with this class. 
+Q8. A Department has multiple Employees. 
+SYED ADNAN HAIDER 
+ Implement shallow copy and deep copy for a department object containing employee list. 
+ Demonstrate how modifying the copy affects the original object. 
+Q9. An online exam system stores Question objects with text, marks, and answer. 
+ Design a class with overloaded constructors: 
+o Only text 
+o Text + marks 
+o Text + marks + answer 
+ Show a scenario of initializing questions differently. 
+Q10. A hotel system tracks Room objects with room number, type, and occupancy. 
+ Create a class with constructor overloading to handle: 
+o Room number only 
+o Room number + type 
+o Room number + type + occupancy status 
+Q11. Design a Car class with attributes: model, price, and fuel efficiency. 
+ Write constructors for economy and luxury cars. 
+ Show how overloading simplifies initialization. 
+Q12. A Movie class has title, director, and release year. 
+ Use default and parameterized constructors to create objects. 
+ Scenario: Some movies are yet to have release year assigned. 
+Q13. A university wants to track total enrolled students. 
+ Should totalStudents be static or instance? 
+ Write a scenario showing incrementing total students as new Student objects are created. 
+Q14. A BankAccount class has: account number, balance, and bank name. 
+ Identify which attributes should be static and which instance. 
+ Scenario: Changing bank name affects all accounts. 
+Q15. You are designing a utility class for mathematical operations. 
+ Implement a static method to calculate factorial. 
+ Scenario: Demonstrate calling the method without creating an object. 
+Q16. A counter class tracks total objects created. 
+ Implement a static variable objectCount and instance variable id. 
+SYED ADNAN HAIDER 
+ Scenario: Print objectCount after creating 5 objects. 
+Q17. A class Employee has instance variable salary and static variable companyName. 
+ Write a scenario where changing companyName affects all employees. 
+Q18. Explain a real-world scenario where misuse of static variable causes wrong behavior. 
+ Example: Tracking last login timestamp using static variable in a multi-user system. 
+Q19. A Student class allows marks to be set directly. 
+ Explain why this violates encapsulation. 
+ Implement getter and setter to enforce marks between 0–100. 
+Q20. You are designing a BankAccount class. Balance can be read but can only be updated through 
+deposit/withdraw methods. 
+ Scenario: Prevent overdraft using encapsulation. 
+Q21. A password manager stores passwords. 
+ Implement encapsulation to allow password updates but prevent reading the actual 
+password. 
+Q22. A car tracking system has fuelLevel attribute. 
+ Use encapsulation to ensure fuelLevel never exceeds tank capacity. 
+Q23. Explain with an example how encapsulation reduces errors in a student grading system. 
+Q24. A health monitoring system tracks heart rate (0–200). 
+ Implement encapsulation to ensure valid readings. 
+Q25. Scenario: A company wants to prevent direct access to salary details of employees. 
+ Implement getter for display only and setter with validation. 
+Q26. Create a Department object containing a list of Employees. 
+ Implement shallow copy. 
+ Scenario: Changing the list in copied department affects original. 
+Q27. Implement deep copy for the above Department object. 
+SYED ADNAN HAIDER 
+ Scenario: Show how modifying the copy does not affect original. 
+Q28. Explain why shallow copy can be useful for memory efficiency. 
+ Scenario: Copying large read-only configuration objects. 
+Q29. A Library has a list of Books. 
+ Implement shallow copy and show effect when adding a book to copied library. 
+Q30. Deep copy the above library object. 
+ Scenario: Modifying copy does not affect original library list. 
+Q31. A Playlist object contains Song objects. 
+ Demonstrate deep copy vs shallow copy with a scenario: updating song name in copy. 
+Q32. Explain shallow vs deep copy using a real-world example: Orders in an online shopping 
+system. 
+Q33. A university has multiple departments. Departments can exist without university. 
+ Identify relationship and justify aggregation. 
+Q34. A house contains rooms. Rooms cannot exist without house. 
+ Identify relationship and justify composition. 
+Q35. Design a library system where a library aggregates multiple sections and each section 
+contains books (composition). 
+ Draw a class diagram. 
+Q36. Scenario: A car has engine, wheels, and seats. 
+ Identify which parts are composition and which can be aggregation. 
+Q37. A hospital has doctors and departments. 
+ Identify which relationship is aggregation and explain. 
+Q38. Online shopping system: Customers, Orders, Products. 
+ Create a domain model identifying entities. 
+SYED ADNAN HAIDER 
+Q39. Extend above: Add relationships and multiplicity for Customer–Order and Order–Product. 
+Q40. Scenario: School management system with Students, Teachers, Courses. 
+ Create domain model and class diagram. 
+Q41. Design a hospital management system domain model: Patients, Doctors, Appointments, 
+Treatments. 
+Q42. Convert the hospital system into class diagram including aggregation/composition where 
+needed. 
+Q43. A student management system connects UI directly to database. 
+ Identify architecture. 
+ Explain limitations. 
+Q44. Redesign the above system into 3-tier architecture: presentation, logic, data. 
+ Draw diagram and explain benefits. 
+Q45. Scenario: Online shopping cart system. 
+ Explain which components belong to 3-tier architecture. 
+Q46. Scenario: Movie booking system with online payment. 
+ Identify 2-tier vs 3-tier parts. 
+ Explain why separating layers is necessary for scalability. 
+SYED ADNAN HAIDER 

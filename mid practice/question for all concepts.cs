@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Student
+ class Student
 {	
 	public string name;
 	public int rollNumber;
@@ -26,7 +26,7 @@ public class Student
 	{
 		this.name = name;
 		this.rollNumber = rollNumber;
-		this.marks = 0; // Default marks
+		this.Marks = 0; // Default marks
 
     }
 
