@@ -13,3 +13,11 @@ C:\Users\Moeez Rashid\Documents\oop\mid practice\obj\Debug\net10.0\refint\mid pr
 C:\Users\Moeez Rashid\Documents\oop\mid practice\obj\Debug\net10.0\mid practice.pdb
 C:\Users\Moeez Rashid\Documents\oop\mid practice\obj\Debug\net10.0\mid practice.genruntimeconfig.cache
 C:\Users\Moeez Rashid\Documents\oop\mid practice\obj\Debug\net10.0\ref\mid practice.dll
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\mid practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\mid practice.AssemblyInfoInputs.cache
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\mid practice.AssemblyInfo.cs
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\mid practice.csproj.CoreCompileInputs.cache
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\mid practice.sourcelink.json
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\mid practice.dll
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\refint\mid practice.dll
+C:\Users\Moeez Rashid\Documents\oop\practice\mid practice\obj\Debug\net10.0\mid practice.pdb
