@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\pre-mid-assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBEFA805-0046-4775-A492-A235DD8767FF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\moeez rashid\\documents\\oop\\practice\\pre-mid-assignment\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBEFA805-0046-4775-A492-A235DD8767FF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\moeez rashid\\documents\\oop\\practice\\pre-mid-assignment\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\moeez rashid\\documents\\oop\\practice\\pre-mid-assignment\\consoleapp1\\bankmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bankmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\pre-mid-assignment\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:35:56.412Z",
+              "WhenOpened": "2026-04-16T19:19:47.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankMain.cs",
+              "DocumentMoniker": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\pre-mid-assignment\\ConsoleApp1\\BankMain.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BankMain.cs",
+              "ToolTip": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\pre-mid-assignment\\ConsoleApp1\\BankMain.cs",
+              "RelativeToolTip": "ConsoleApp1\\BankMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:19:41.526Z",
               "EditorCaption": ""
             }
           ]
