@@ -14,6 +14,7 @@ class Program
         //BookMain.Run(args);
         //Console.WriteLine("Running Solution of question 8...\n");
         //DepartmentMain.Run(args);
+        StudentClassTest.Run(args);
 
 
     }
