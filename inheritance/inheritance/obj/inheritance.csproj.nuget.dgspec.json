@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\inheritance\\inheritance\\inheritance.csproj": {}
+    "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab\\practice\\inheritance\\inheritance\\inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\inheritance\\inheritance\\inheritance.csproj": {
+    "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab\\practice\\inheritance\\inheritance\\inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\inheritance\\inheritance\\inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab\\practice\\inheritance\\inheritance\\inheritance.csproj",
         "projectName": "inheritance",
-        "projectPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\inheritance\\inheritance\\inheritance.csproj",
+        "projectPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab\\practice\\inheritance\\inheritance\\inheritance.csproj",
         "packagesPath": "C:\\Users\\Moeez Rashid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\practice\\inheritance\\inheritance\\obj\\",
+        "outputPath": "C:\\Users\\Moeez Rashid\\Documents\\oop\\Lab\\practice\\inheritance\\inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moeez Rashid\\AppData\\Roaming\\NuGet\\NuGet.Config",
