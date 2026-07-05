@@ -1,0 +1,13 @@
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\bin\Debug\EZInput.dll
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\bin\Debug\EZInput.xml
+C:\Users\Moeez Rashid\Documents\oop\Lab\practice\1st game\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
